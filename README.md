@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeongsu Han
 - 👀 I’m interested in making games. Especially game design is my desired job.
-- 🌱 I’m currently learning data analytics, game design, unreal engine, C++.
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wjdtn214@naver.com
 - 😄 Pronouns: ...
